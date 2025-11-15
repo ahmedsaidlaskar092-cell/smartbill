@@ -1,0 +1,5 @@
+{
+  "name": "Neon Billing",
+  "description": "A simple, single-user billing software for small shops. Manage products, create invoices, track sales, and update shop settings with ease. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
